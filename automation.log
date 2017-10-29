@@ -1,0 +1,36 @@
+2017-10-29 09:47:59 INFO  Scenario_Search:31 - Executing the Testcase  GB_01 Order set is  2.0
+2017-10-29 09:48:13 INFO  Scenario_Search:47 - Failed as Actual Result is Sorry! There are no products to display. NOT matching with Expected Result Sorry! There are no products to disp
+2017-10-29 09:51:03 INFO  Scenario_Search:31 - Executing the Testcase  GB_01 Order set is  1.0
+2017-10-29 09:51:18 INFO  Scenario_Search:43 - Passed as Actual Result is Sorry! There are no products to display. matching with Expected Result Sorry! There are no products to display.
+2017-10-29 09:51:45 INFO  Scenario_Search:31 - Executing the Testcase  GB_01 Order set is  2.0
+2017-10-29 09:51:59 INFO  Scenario_Search:47 - Failed as Actual Result is Sorry! There are no products to display. NOT matching with Expected Result Sorry! There are no products to disp
+2017-10-29 10:17:13 INFO  Scenario_Search:85 - Failed as Actual Result is 180 Items Expected Result is 178.0
+2017-10-29 10:23:11 INFO  Scenario_Search:71 - Executing the Testcase GB_02 Order Set is 1.0
+2017-10-29 10:23:27 INFO  Scenario_Search:85 - Passed as Actual Result is 180 Expected Result is 180
+2017-10-29 10:27:04 INFO  Scenario_Search:71 - Executing the Testcase GB_02 Order Set is 1.0
+2017-10-29 10:27:19 INFO  Scenario_Search:85 - Passed as Actual Result is 180 Expected Result is 180
+2017-10-29 10:27:46 INFO  Scenario_Search:71 - Executing the Testcase GB_03 Order Set is 1.0
+2017-10-29 10:29:20 INFO  Scenario_Search:71 - Executing the Testcase GB_04 Order Set is 1.0
+2017-10-29 10:29:34 INFO  Scenario_Search:85 - Passed as Actual Result is 14 Expected Result is 14
+2017-10-29 10:35:19 INFO  Scenario_Search:71 - Executing the Testcase GB_03 Order Set is 1.0
+2017-10-29 10:35:37 INFO  Scenario_Search:89 - Failed as Actual Result is 324 Expected Result is 428
+2017-10-29 10:46:04 INFO  Scenario_Search:71 - Executing the Testcase GB_03 Order Set is 1.0
+2017-10-29 10:46:19 INFO  Scenario_Search:90 - Failed as Actual Result is 324 Expected Result is 428
+2017-10-29 12:08:01 INFO  Scenario_Cart:48 - Passed as Actual Result is  Raw Mango - DicedExpected Result is Raw Mango - Diced
+2017-10-29 12:10:55 INFO  Scenario_Cart:48 - Passed as Actual Result is  Raw Mango - DicedExpected Result is Raw Mango - Diced
+2017-10-29 12:14:47 INFO  Scenario_Cart:79 - Executing the Testcase GB_08Order Set is 1.0
+2017-10-29 12:15:09 INFO  Scenario_Cart:101 - Passed as Actual Result is  There are no items in your basket.Expected Result is There are no items in your basket.
+2017-10-29 12:23:41 INFO  Scenario_Search:31 - Executing the Testcase  GB_01 Order set is  1.0
+2017-10-29 12:23:54 INFO  Scenario_Search:43 - Passed as Actual Result is Sorry! There are no products to display. matching with Expected Result Sorry! There are no products to display.
+2017-10-29 12:24:21 INFO  Scenario_Search:31 - Executing the Testcase  GB_01 Order set is  2.0
+2017-10-29 12:24:37 INFO  Scenario_Search:47 - Failed as Actual Result is Sorry! There are no products to display. NOT matching with Expected Result Sorry! There are no products to disp
+2017-10-29 12:29:31 INFO  Scenario_Search:31 - Executing the Testcase  GB_01 Order set is  1.0
+2017-10-29 12:29:43 INFO  Scenario_Search:43 - Passed as Actual Result is Sorry! There are no products to display. matching with Expected Result Sorry! There are no products to display.
+2017-10-29 12:30:10 INFO  Scenario_Search:31 - Executing the Testcase  GB_01 Order set is  2.0
+2017-10-29 12:30:29 INFO  Scenario_Search:47 - Failed as Actual Result is Sorry! There are no products to display. NOT matching with Expected Result Sorry! There are no products to disp
+2017-10-29 12:30:56 INFO  Scenario_Cart:31 - Executing the Testcase GB_05Order Set is 1.0
+2017-10-29 12:31:22 INFO  Scenario_Cart:49 - Passed as Actual Result is  Raw Mango - DicedExpected Result is Raw Mango - Diced
+2017-10-29 12:42:21 INFO  Scenario_Search:31 - Executing the Testcase  GB_01 Order set is  1.0
+2017-10-29 12:42:34 INFO  Scenario_Search:43 - Passed as Actual Result is Sorry! There are no products to display. matching with Expected Result Sorry! There are no products to display.
+2017-10-29 12:59:14 INFO  Scenario_Search:? - Executing the Testcase  GB_01 Order set is  1.0
+2017-10-29 12:59:27 INFO  Scenario_Search:? - Passed as Actual Result is Sorry! There are no products to display. matching with Expected Result Sorry! There are no products to display.
